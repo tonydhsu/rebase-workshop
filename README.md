@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 RECOMMENDED MODULES
 -------------------
-- Eget nunc 
+
 - Scelerisque viverra mauris 
 - Vulputate enim 
 - Nulla aliquet 
